@@ -1,0 +1,21 @@
+{
+  "name": "js_first_task",
+  "version": "1.0.0",
+  "description": "A collection of JavaScript exercises focused on learning and practicing core JavaScript concepts.",
+  "main": "addNumber.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dehitre/javascript-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dehitre/javascript-practice/issues"
+  },
+  "homepage": "https://github.com/dehitre/javascript-practice#readme"
+}
